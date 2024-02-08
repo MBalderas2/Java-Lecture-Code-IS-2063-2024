@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Solutions.iml" filepath="$PROJECT_DIR$/.idea/Solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Lecture-Code-IS-2063-2024/WelcomeMessage/WelcomeMessage.iml" filepath="$PROJECT_DIR$/Java-Lecture-Code-IS-2063-2024/WelcomeMessage/WelcomeMessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Lecture-Code-IS-2063-2024/com.lectures.module2/com.lectures.module2.iml" filepath="$PROJECT_DIR$/Java-Lecture-Code-IS-2063-2024/com.lectures.module2/com.lectures.module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Lecture-Code-IS-2063-2024/com.solutions.module3/com.solutions.module3.iml" filepath="$PROJECT_DIR$/Java-Lecture-Code-IS-2063-2024/com.solutions.module3/com.solutions.module3.iml" />
+    </modules>
+  </component>
+</project>
